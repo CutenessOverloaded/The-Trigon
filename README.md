@@ -1,2 +1,3 @@
 # The-Trigon
 A Triangle calculator
+Trying to build it using Tkinter, it's coming soon...
